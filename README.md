@@ -6,4 +6,4 @@ Students should download the following files:
 * individual_table.csv
 * physical_table.csv
 
-The files 20180424_final_database_demo_with_data and _______ are backups for the demonstrations.
+The files 20180425_complete_db and _______ are backups for the demonstrations.
