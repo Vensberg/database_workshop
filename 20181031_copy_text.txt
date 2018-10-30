@@ -1,0 +1,26 @@
+cohort
+
+cohort_id
+cohort_cross_date
+cohort_parent_1
+cohort_parent_2
+cohort_location
+
+individual 
+
+individual_id
+ind_cohort_id
+ind_location
+
+
+'tank_1', 'tank_2', 'tank_3', 'tank_4', 'tank_5', 'tank_6', 'tank_7', 'tank_8', 'tank_9', 'tank_10', 'tank_11', 'tank_12', 'tank_13', 'tank_14', 'tank_15', 'tank_16', 'tank_17', 'tank_18', 'tank_19', 'tank_20', 'tank_21', 'tank_22', 'tank_23', 'tank_24', 'tank_25'
+
+physical
+
+physical_auto_id
+physical_individual_id
+physical_cohort_id
+physical_date
+physical_length_mm
+physical_weight_g
+physical_brilliance
